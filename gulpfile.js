@@ -108,7 +108,7 @@ function browserSync() {
     },
     ghostMode: { clicks: false },
     notify: false,
-    open: false,
+    open: true,
     // tunnel: 'yousitename', // Attempt to use the URL https://yousutename.loca.lt
   });
 }
